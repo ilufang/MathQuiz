@@ -35,7 +35,7 @@ if (jQuery)
 			{
 			// Display score
 			$("body").addClass("done");
-			$("h1").text("You answered "+score+" questions correctly.");
+			$("h1").text("You answered "+score+" question(s) correctly.");
 			}
 		}
 	}
